@@ -18,7 +18,7 @@ function ContactUs() {
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
           <a className="text-indigo-500 leading-relaxed">nexusglobalconsultancy@gmail.com</a>
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-          <p className="leading-relaxed">7780721704</p>
+          <p className="leading-relaxed">7871437729</p>
         </div>
       </div>
     </div>
@@ -40,8 +40,8 @@ function ContactUs() {
       <button className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Send</button>
     </div>
   </div>
-  <a href="https://api.whatsapp.com/send/?phone=917780721704&text&type=phone_number&app_absent=0" target='_blank'>
-  <img className='h-8 fixed bottom-40 right-20 md:h-16' href src={WhatsappImg} alt="" />
+  <a href="https://api.whatsapp.com/send/?phone=7871437729&text&type=phone_number&app_absent=0" target='_blank'>
+  <img className='h-8 fixed bottom-40 right-2 md:right-20 md:h-16' href src={WhatsappImg} alt="" />
   </a>
 </section>
 

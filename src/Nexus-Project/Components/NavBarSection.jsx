@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function NavBarSection() {
   return (
-    <section>
+    <section className='mb-48 md:mb-14'>
         <header className="text-gray-600 body-font w-full fixed top-0 left-0 z-50 shadow-md h-25 bg-gradient-to-r from-blue-600 to-blue-400 rounded-b-md">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
